@@ -18,7 +18,7 @@ The Meme Generator App allows users to generate random meme images with custom t
 
 To run the Meme Generator App locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/bruceiplol/meme-generator-app.git`
+1. Clone the repository: `git clone https://github.com/Bruceiplol/meme-generator-app.git`
 2. Navigate to the project directory: `cd meme-generator-app`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
